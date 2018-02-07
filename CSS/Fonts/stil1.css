@@ -1,0 +1,41 @@
+* {
+    font-size: 1.2em;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: 'Funny font';
+    src: url('./fonts/AmaticSC-Bold.ttf');
+}
+
+h1 {
+    font-family: 'Nanum Pen Script', cursive;
+}
+
+#boja1 {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 0.8em;
+}
+#boja2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: oblique;
+}
+#boja3 {
+    font-family: 'Courier New', Courier, monospace;
+}
+.prvi {
+    font-family: Verdana, sans-serif;
+}
+.drugi {
+    font-family: 'Times New Roman', Times, serif;
+}
+.treci {
+    font-family: Tahoma, Verdana, sans-serif;
+}
+span {
+    font-style: italic;
+}
+p#font1 {
+    font-family: "Funny font";
+}
+
